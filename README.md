@@ -1,4 +1,4 @@
-Slot Booking System
+# Slot Booking System
 This is a MERN stack project that allows users to book slots for various services and events. Users can log in using their email and a one-time password (OTP) that is sent to their email. The project uses ReactJS for the front-end, NodeJS for the back-end, and MongoDB for the database.
 
 Features
